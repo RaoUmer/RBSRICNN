@@ -3,6 +3,10 @@
 
 An official PyTorch implementation of the [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) network as described in the paper **[RBSRICNN: Raw Burst Super-Resolution through Iterative Convolutional Neural Network](https://arxiv.org/abs/2110.13217)** which is published in the **[Machine Learning and the Physical Sciences workshop](https://ml4physicalsciences.github.io/2021/)** at the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
+✨ _**Visual examples**_:
+
+[<img src="figs/vis_res1.PNG" width="350px"/>](https://imgsli.com/Nzk5ODM) [<img src="figs/vis_res2.PNG" width="355px"/>](https://imgsli.com/Nzk5ODQ)
+
 ___________
 
 * [Abstract](#abstract)
