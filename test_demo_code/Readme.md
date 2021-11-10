@@ -23,7 +23,7 @@
 	- track2_test_set: Given LR bursts of test-set of track-2.
 	- sr_results_track2_test_set: saved output SR images of our network for track2_test_set.
 
-- ### Running Time [image per seconds]:
+- ### Running Time (seconds per image):
 	- Track-1 valset: 0.3237
 	- Track-1 testset: 0.3350
 	- Track-2 valset: 0.8861
